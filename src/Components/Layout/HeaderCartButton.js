@@ -1,6 +1,6 @@
 import React,{Fragment} from 'react';
 import classes from './HeaderCartButton.module.css';
-import iconImage from '../../Assets/icons8-shopping-cart.jpg'
+import iconImage from '../../Assets/icons8-shopping-trolley-64.png'
 
 const HeaderCartButton = () => {
   return (
