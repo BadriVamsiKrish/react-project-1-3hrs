@@ -8,7 +8,7 @@ const HeaderCartButton = () => {
       <button className={classes.button}>
         <span><img src={iconImage} alt='icon'/></span> 
         <span>
-          your cart
+          Your cart
         </span>
         <span className={classes.badge}>3</span>
       </button>
